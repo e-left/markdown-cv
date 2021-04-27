@@ -40,10 +40,10 @@ Backend engineering, cloud development, server administration, a bit of mobile d
 
 ## Education
 
-`September 2016 - June 2019`
+`2016 - 2019`
 __1st High School of Serres__
 
-`September 2019 - June 2024`
+`2019 - 2024`
 __Electrical and Computer Engineering at Aristotle University of Thessaloniki(Current)__
 - Pursuing Integrated Masters Degree
 
