@@ -1,44 +1,37 @@
 ---
 layout: cv
-title: Fotis Alexandridis - CV
+title: Fotis Alexandridis
 ---
 # Fotis Alexandridis
 Student, developer, (soon-to-be) engineer.
 
-<!-- <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div> -->
+<div id="webaddress">
+<a href="eleft@protonmail.com">eleft@protonmail.com</a>
+</div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Student at Aristotle University of Thessaloniki(Electrical and Computer Engineering). Self taught software developer.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Backend engineering, cloud development, server administration, a bit of mobile dev.
 
 
-### Research interests
+### Recent (and not so recent) interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Machine learning, low level operating systems concepts and anything that is cool. Advanced physics and maths.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2016 - June 2019`
+__1rst High School of Serres__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`September 2019 - now (Expected: June 2024)`
+__Electrical and Computer Engineering at Aristotle University of Thessaloniki__
+- Pursuing Integrated Masters Degree
 
 
 
@@ -84,8 +77,8 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 
 
-<!-- ### Footer
+### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2021
 
 
