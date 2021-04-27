@@ -60,6 +60,9 @@ __Electrical and Computer Engineering at Aristotle University of Thessaloniki(Cu
 - Kubernetes and Docker
 - Linux, linux servers
 - Knowledge of data structures and algorithms
+- Knowledge of basic machine learning algorithms
+- Basic tensorflow 
+- Advanced calculus
 
 ## Notable certificates/conferences
 - Took part in in QGreece QBronze53 | Quantum Computing and Programming
