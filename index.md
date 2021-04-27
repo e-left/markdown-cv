@@ -22,6 +22,7 @@ Backend engineering, cloud development, server administration, a bit of mobile d
 ### Recent (and not so recent) interests
 
 Machine learning, low level operating systems concepts and anything that is cool. Advanced physics and maths.
+Tinkering with electronics. Building/creating things.
 
 
 ## Education
