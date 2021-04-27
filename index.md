@@ -6,10 +6,17 @@ title: Fotis Alexandridis
 Student, developer, (soon-to-be) engineer.
 
 <div id="webaddress">
-<a href="eleft@protonmail.com">eleft@protonmail.com</a>
-<a href="https://github.com/e-left">https://github.com/e-left</a>
+<a href="eleft@protonmail.com">eleft@protonmail.com</a>|
+<a href="https://github.com/e-left">https://github.com/e-left</a>|
 <a href="https://www.linkedin.com/in/fotis-alexandridis-b925b4147/">https://www.linkedin.com/in/fotis-alexandridis-b925b4147/</a>
 </div>
+
+## Personal Information
+
+- Full name: Alexandridis Fotis
+- Nationality: Greek
+- Country of origin: Greece
+- Age: 20
 
 
 ## Currently
@@ -25,6 +32,7 @@ Backend engineering, cloud development, server administration, a bit of mobile d
 
 Machine learning. Operating systems. Advanced physics and maths.
 Tinkering with electronics. Building/creating things. Science.
+Computer security. Ethical hacking.
 
 
 ## Education
@@ -37,7 +45,7 @@ __Electrical and Computer Engineering at Aristotle University of Thessaloniki(Cu
 - Pursuing Integrated Masters Degree
 
 
-## Awards
+<!-- ## Awards
 
 `2012`
 President, *Royal Society*, London, UK
@@ -45,13 +53,18 @@ President, *Royal Society*, London, UK
 Associate, *French Academy of Science*, Paris, France
 
 
-## 
+##  -->
+
+## Languages
+- Greek: Mother Tongue
+- English: proficient user(ECPE certificate holder)
+
+## Notable certificates/conferences
 
 
 ## Some of my work
 
 
-## Links
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 <!-- ### Journals
@@ -80,7 +93,6 @@ __Royal Mint__, London
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University -->
-
 
 
 ### Document Status
