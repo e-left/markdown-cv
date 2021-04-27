@@ -29,8 +29,8 @@ Machine learning, low level operating systems concepts and anything that is cool
 `September 2016 - June 2019`
 __1rst High School of Serres__
 
-`September 2019 - now (Expected: June 2024)`
-__Electrical and Computer Engineering at Aristotle University of Thessaloniki__
+`September 2019 - June 2024`
+__Electrical and Computer Engineering at Aristotle University of Thessaloniki(Current)__
 - Pursuing Integrated Masters Degree
 
 
