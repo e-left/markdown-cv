@@ -62,7 +62,7 @@ __Electrical and Computer Engineering at Aristotle University of Thessaloniki(Cu
 - Knowledge of data structures and algorithms
 
 ## Notable certificates/conferences
-- Participated in QGreece QBronze53 | Quantum Computing and Programming
+- Took part in in QGreece QBronze53 | Quantum Computing and Programming
 
 ## Some of my work
 - Multi User concurrent chat application written in Go: <a href="https://github.com/e-left/chat">https://github.com/e-left/chat</a>
