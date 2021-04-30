@@ -16,7 +16,7 @@ Student, developer, (soon-to-be) engineer.
 - Full name: Alexandridis Fotis
 - Nationality: Greek
 - Country of origin: Greece
-Age: 20
+- Age: 20
 
 
 ## Currently
