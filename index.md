@@ -65,6 +65,7 @@ __Electrical and Computer Engineering at Aristotle University of Thessaloniki(Cu
 - Advanced calculus
 - Knowledge of database systems
 - Proficiency in office programs(Word, Excel etc)
+- Knowledge of statistical software, data analysis
 
 ## Notable certificates/conferences
 - Took part in in QGreece QBronze53 | Quantum Computing and Programming
