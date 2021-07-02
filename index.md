@@ -6,7 +6,7 @@ title: Fotis Alexandridis
 Student, developer, (soon-to-be) engineer.
 
 <div id="webaddress">
-<a href="eleft@protonmail.com">eleft@protonmail.com</a> |
+<a href="fotisalexandridis2001@gmail.com">fotisalexandridis2001@gmail.com</a> |
 <a href="https://github.com/e-left">https://github.com/e-left</a> |
 <a href="https://www.linkedin.com/in/fotis-alexandridis-b925b4147/">https://www.linkedin.com/in/fotis-alexandridis-b925b4147/</a>
 </div>
@@ -63,6 +63,8 @@ __Electrical and Computer Engineering at Aristotle University of Thessaloniki(Cu
 - Knowledge of basic machine learning algorithms
 - Basic tensorflow 
 - Advanced calculus
+- Knowledge of database systems
+- Proficiency in office programs(Word, Excel etc)
 
 ## Notable certificates/conferences
 - Took part in in QGreece QBronze53 | Quantum Computing and Programming
@@ -72,4 +74,4 @@ __Electrical and Computer Engineering at Aristotle University of Thessaloniki(Cu
 
 ## Last Updated
 
-April 2021
+July 2021
