@@ -16,12 +16,11 @@ Student, developer, (soon-to-be) engineer.
 - Full name: Alexandridis Fotis
 - Nationality: Greek
 - Country of origin: Greece
-- Age: 20
-
+- Age: 21
 
 ## Currently
 
-Student at Aristotle University of Thessaloniki(Electrical and Computer Engineering). Self taught software engineer.
+Student at Aristotle University of Thessaloniki(Electrical and Computer Engineering). Self taught software engineer. Autonomous System Engineer at Aristotle University Racing Team Electric & Driverless, co creator of CoolSchool and Metaspace Wars, soon to launch.
 
 ### I Specialize in
 
@@ -47,6 +46,19 @@ __1st High School of Serres__
 __Electrical and Computer Engineering at Aristotle University of Thessaloniki(Current)__
 - Pursuing Integrated Masters Degree
 
+## Previous Work Experience
+`2021-2022`
+__Aristotle University Racing Team Electric & Driverless__
+- Autonomous System Engineer
+
+`2021-2022`
+__Lead Backend Developer at CoolSchool__
+- Full stack application for backoffice interface to deliver content to a mobile application
+
+`2022-2022`
+__Lead NFT and Web3 Developer at MetaSpace Wars__
+- NTF integration on the Solana blockchain on a Web3 Space Invaders inspired game
+
 ## Languages
 - Greek: Mother Tongue
 - English: proficient user(ECPE certificate holder)
@@ -60,19 +72,17 @@ __Electrical and Computer Engineering at Aristotle University of Thessaloniki(Cu
 - Kubernetes and Docker
 - Linux, linux servers
 - Knowledge of data structures and algorithms
-- Knowledge of basic machine learning algorithms
+- Knowledge of machine learning algorithms
 - Basic tensorflow 
-- Advanced calculus
 - Knowledge of database systems
-- Proficiency in office programs(Word, Excel etc)
-- Knowledge of statistical software, data analysis
 
 ## Notable certificates/conferences
 - Took part in in QGreece QBronze53 | Quantum Computing and Programming
 
 ## Some of my work
 - Multi User concurrent chat application written in Go: <a href="https://github.com/e-left/chat">https://github.com/e-left/chat</a>
+- Complete editing server for the CoolSchool Application written in NextJS in the form of a full stack web application: <a href="https://github.com/e-left/lesson-server">https://github.com/e-left/lesson-server</a>
 
 ## Last Updated
 
-July 2021
+May 2022
